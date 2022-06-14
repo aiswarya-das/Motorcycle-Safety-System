@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652001013125",
+    "project_id": "motorcycle-safety-system",
+    "storage_bucket": "motorcycle-safety-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652001013125:android:32c9d1c151dd91812d28ec",
+        "android_client_info": {
+          "package_name": "com.example.motorcyclesafetysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652001013125-ugucm38lps2fj6ibsd2fmbgbq9l4trhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3lqf1ssQxoMjUAp_KZ5aQcI8GBpT0Wek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652001013125-ugucm38lps2fj6ibsd2fmbgbq9l4trhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
