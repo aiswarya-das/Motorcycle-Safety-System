@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">652001013125-ugucm38lps2fj6ibsd2fmbgbq9l4trhv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">652001013125</string>
+    <string name="google_api_key" translatable="false">AIzaSyB3lqf1ssQxoMjUAp_KZ5aQcI8GBpT0Wek</string>
+    <string name="google_app_id" translatable="false">1:652001013125:android:32c9d1c151dd91812d28ec</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB3lqf1ssQxoMjUAp_KZ5aQcI8GBpT0Wek</string>
+    <string name="google_storage_bucket" translatable="false">motorcycle-safety-system.appspot.com</string>
+    <string name="project_id" translatable="false">motorcycle-safety-system</string>
+</resources>
